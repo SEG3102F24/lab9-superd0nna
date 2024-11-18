@@ -10,5 +10,5 @@ name: Sarah Siage <br/>
 3. run `./gradlew bootrun`
 4. navigate to `http://localhost:8080/login` on the browser
 
-credentials: user1   pass1
+credentials: user1   pass1 <br/>
 credentials: user2   pass2
